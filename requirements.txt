@@ -1,0 +1,7 @@
+Django==3.1.1
+djangorestframework==3.12.2
+mysqlclient==2.0.1
+django-client
+django-cors-headers==3.5.0
+pika=1.1.0
+pytz==2020.1
